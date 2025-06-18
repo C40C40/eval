@@ -1,0 +1,1 @@
+其实他们当时借助了一个非常有用的工具 就是我们说的互联网上的众包的工具 特别他们是这里用了一个叫amazon mechanical turk 这个工具可能又被叫做Artificial Artificial Intelligence 大家注意看到右下角后缀 为什么叫Artificial Artificial Intelligence 换句话来说 它其实是叫Artificial AI 就是说它不是真正的AI来帮你标注的 它是等于说在你的屏幕另一端 世界的某个角落里面 可能有一个人在他上班下班的路上打开他的手机 标注了这个图片 把他的标注的结果传回到了你这里 让你看上去好像是自动标注的 但实际是人工的标注 所以这个名字被取成叫Artificial AI 这个技术恰逢其时
